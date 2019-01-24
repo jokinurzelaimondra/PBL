@@ -1,0 +1,47 @@
+﻿  ebentoak.c
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\simplesdlwrapper\ebentoak.c(8): warning C4027: función declarada sin lista de parámetros formales
+  graphics.c
+  imagen.c
+  soinua.c
+  text.c
+  02simpleGameMain.c
+  game02.c
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(40): warning C4013: 'JOKOA_jokalariaIrudiaPortada' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(61): warning C4013: 'JOKOA_jokalariaIrudiaEzarpenak' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(88): warning C4013: 'JOKOA_jokalariaIrudiaKredituak' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(142): warning C4013: 'JOKOA_jokalariaIrudiaFondo' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(144): warning C4013: 'JOKOA_jokalariaIrudiaMeta' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(145): warning C4013: 'JOKOA_jokalariaIrudiaTutorial' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(146): warning C4013: 'JOKOA_jokalariaIrudiaPersaonajea' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(147): warning C4013: 'JOKOA_jokalariaIrudiaPintxoak' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(202): warning C4013: 'jokatu1' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(283): warning C4013: 'karratuaMarraztu' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(284): warning C4013: 'kolisioakDetektatuX' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(285): warning C4013: 'kolisioakDetektatuY' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(348): warning C4013: 'jokatu2' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(415): warning C4013: 'JOKOA_jokalariaIrudiaZerra' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(433): warning C4013: 'serraBertikal' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(501): warning C4013: 'JOKOA_egoeraZerra' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(520): warning C4013: 'jokatu3' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(592): warning C4013: 'JOKOA_jokalariaIrudiaBala' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(593): warning C4013: 'JOKOA_jokalariaIrudiaKainoiaHori' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(617): warning C4013: 'pintxoakMugitu' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(705): warning C4013: 'jokatu4' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(754): warning C4013: 'JOKOA_jokalariaIrudiaPintxoLuzi' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(850): warning C4013: 'JOKOA_egoeraPintxoluzi' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(859): warning C4013: 'jokatu5' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(1043): warning C4013: 'jokatu6' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(1116): warning C4013: 'JOKOA_jokalariaIrudiaKainoiaBert' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(1145): warning C4013: 'serraHorizontal' sin definir; se supone que extern devuelve como resultado int
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(1242): warning C4013: 'JOKOA_IrudiaBukaera' sin definir; se supone que extern devuelve como resultado int
+  Generando código...
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(212): warning C4717: 'jokatu': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(536): warning C4717: 'jokatu2': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(362): warning C4717: 'jokatu1': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(870): warning C4717: 'jokatu4': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(1059): warning C4717: 'jokatu5': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(1263): warning C4717: 'jokatu6': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(1263): warning C4716: 'jokatu6': debe devolver un valor
+c:\users\arbiz\desktop\pbl\azkeneko jokoa\jokoa - copia\02simplegame\game02\game02.c(722): warning C4717: 'jokatu3': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+     Creando biblioteca C:\Users\arbiz\Desktop\PBL\Azkeneko jokoa\Jokoa - copia\Debug\02simpleGame.lib y objeto C:\Users\arbiz\Desktop\PBL\Azkeneko jokoa\Jokoa - copia\Debug\02simpleGame.exp
+  02simpleGame.vcxproj -> C:\Users\arbiz\Desktop\PBL\Azkeneko jokoa\Jokoa - copia\Debug\02simpleGame.exe
